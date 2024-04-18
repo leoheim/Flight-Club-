@@ -25,9 +25,4 @@ Avoid making too many unnecessary requests with the Sheety API while testing you
 
 Also, enable the PUT option so that you can write to your Google sheet,
 
-Register with the Kiwi Partners Flight Search API,
-
-Your account name should be the same as what you used later in "First name" and "Last name".
-
-There is no need to provide a credit card or billing information (you can skip that section) when you create your "Solution" (previously called "Application").
-
+If you want to use this code, gather the files in one folder, get the APIs tokens and APIs endpoints, and make a copy of this google sheet for your own use: https://docs.google.com/spreadsheets/d/1lVlBXFscKbj3fzdTqNjThHb6mY6Z8euanzdai7EyBlM/edit?usp=sharing
