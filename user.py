@@ -1,6 +1,6 @@
 import requests
 
-SHEETY_USERS_ENDPOINT = "https://api.sheety.co/179b7cfaddeeb283bb7a1f8f8b3bfc07/copiaDeFlightDeals/users"
+SHEETY_USERS_ENDPOINT = "YOUR SHEETY USERS ENDPOINT"
 
 
 class User():
